@@ -50,7 +50,7 @@
     "fsevents": "^2.1.2"
   },
   "dependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.13.1",
     "audit": "0.0.6",
     "babel-plugin-debug-macros": "^0.2.0",
     "core-js": "^3.6.4",
@@ -58,7 +58,8 @@
     "fix": "0.0.6",
     "format-number": "^3.0.0",
     "intl-format-cache": "^4.2.22",
-    "jquery": "^3.4.0",
-    "minimatch": "^3.0.2"
+    "jquery": "^3.5.1",
+    "minimatch": "^3.0.2",
+    "webpack": "^5.24.1"
   }
 }

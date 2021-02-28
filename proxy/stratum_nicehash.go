@@ -9,7 +9,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/techievee/ethash-mining-pool/util"
+	"coinary.com/pool/util"
 	"math/rand"
 	"strings"
 )

@@ -13,10 +13,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/techievee/ethash-mining-pool/policy"
-	"github.com/techievee/ethash-mining-pool/rpc"
-	"github.com/techievee/ethash-mining-pool/storage"
-	"github.com/techievee/ethash-mining-pool/util"
+	"coinary.com/pool/policy"
+	"coinary.com/pool/rpc"
+	"coinary.com/pool/storage"
+	"coinary.com/pool/util"
 )
 
 type ProxyServer struct {

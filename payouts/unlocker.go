@@ -10,9 +10,9 @@ import (
 
 	"github.com/ethereum/go-ethereum/common/math"
 
-	"github.com/techievee/ethash-mining-pool/rpc"
-	"github.com/techievee/ethash-mining-pool/storage"
-	"github.com/techievee/ethash-mining-pool/util"
+	"coinary.com/pool/rpc"
+	"coinary.com/pool/storage"
+	"coinary.com/pool/util"
 )
 
 type UnlockerConfig struct {
